@@ -1,8 +1,8 @@
 {
   "name": "tistorywithchatgpt",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "chatGPT에게 받은 답변을 토대로 Tistory에 게시글 작성하기",
+  "main": "app.ts",
   "scripts": {
     "start": "node dist/app.js",
     "build": "tsc -p .",
